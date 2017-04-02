@@ -3,7 +3,7 @@
 • Año de cursada: 2017
 • Número de equipo: 
 • Integrantes del equipo:
--Nicolás Gimenez, Legajo XXXXXX-X, usuario github ngimenez83
+-Nicolás Gimenez, Legajo 115740-1, usuario github ngimenez83
 -Andrés Couadau, Legajo 162804-5, usuario github acouadau
 
 TP#1 "Suma de dos números que ingresó el usuario":
